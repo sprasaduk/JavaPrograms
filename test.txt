@@ -1,1 +1,2 @@
-This is my github test file
+This is my github test file.
+This is my initial test file
